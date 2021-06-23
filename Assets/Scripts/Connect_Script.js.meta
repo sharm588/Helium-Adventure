@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d3881e7f34844b3d85c85a60e75a25d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - limb: {fileID: 100018, guid: d327598eef63840e9961cc3a28194a36, type: 2}
+  - upperLeg: {fileID: 100016, guid: d327598eef63840e9961cc3a28194a36, type: 2}
+  - upperLeg1: {fileID: 100014, guid: d327598eef63840e9961cc3a28194a36, type: 2}
+  - lowerLeg: {fileID: 100006, guid: d327598eef63840e9961cc3a28194a36, type: 2}
+  - lowerLeg1: {fileID: 100002, guid: d327598eef63840e9961cc3a28194a36, type: 2}
+  - entireCreature: {fileID: 100020, guid: d327598eef63840e9961cc3a28194a36, type: 2}
+  - HJToLeg: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

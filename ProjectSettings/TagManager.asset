@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Enemy
+  - Obstacle
+  - Bullet
+  - Creatures
+  - EnemyShot
+  - Creatures(Attached)
+  - MainCharacter
+  - harmfulObstacle
+  - FallCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Body_Parts
+  - External_Body_Cols
+  - Balloon
+  - Destroyer
+  - Starting_Item
+  - Tail
+  - Controls(GameOver)
+  - Controls
+  - Weapon
+  - Enemy
+  - Body
+  - Invisible
+  - Waste
+  - PowerUps
+  - CapturePoints
+  - Points
+  - HarmfulObstacle
+  - Creatures(Attached)
+  - Water2D
+  - MC
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
