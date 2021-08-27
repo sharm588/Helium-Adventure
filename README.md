@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">Helium Adventure</h1>
+<p align="center">Repository for iOS application built with Unity game engine. Clone repository and open with Unity Hub.</p>
 
-## About
-Repository for iOS application built with Unity game engine. Clone repository and open with Unity Hub.
 
     
     
