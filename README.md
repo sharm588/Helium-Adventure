@@ -6,7 +6,10 @@
 </p>
 <h1 align="center">Helium Adventure</h1>
 <p align="center">Repository for iOS application built with Unity game engine. Clone repository and open with Unity Hub.</p>
-
+<br>
+<p align="center">
+Coded, designed, and published iOS application Helium Adventure with over 2000 downloads across the world from countries such as China, Vietnam, United States, Russia, etcetera. Received attention on websites such as BGR, Yahoo, and Yahoo Tech as one of the “[top free apps](https://bgr.com/general/best-free-iphone-apps-ipad-aug-17/)” from accredited news editor Zach Epstein. The project was coded in JavaScript using Unity.
+</p>
 
     
     
