@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://github.com/sharm588/Helium-Adventure/blob/master/HeliumIcon1024x1024.png?raw=true" alt="Helium Adventure logo">
+  <img width="200" src="https://github.com/sharm588/Helium-Adventure/blob/main/HeliumIcon1024x1024.png?raw=true" alt="Helium Adventure logo">
 </p>
 
 # Helium Adventure
