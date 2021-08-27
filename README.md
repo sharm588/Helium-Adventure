@@ -1,5 +1,7 @@
 # Helium-Adventure
-Repository for iOS application built with Unity game engine
-## How to Open Project
+Repository for iOS application built with Unity game engine. Clone repository and open with Unity Hub.
 
-    git clone repo
+## About
+
+    
+    
